@@ -9,6 +9,9 @@
       ],
       "@components/*": [
         "src/components/*"
+      ],
+      "@assets/*": [
+        "assets/*"
       ]
       // If you're only using the "src" folder use: "src/*"
     }

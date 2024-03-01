@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, ScrollView, Pressable } from 'react-native'
 import React, { useState } from 'react'
-import Markdown from 'react-native-markdown-display'
+import Markdown from 'react-native-markdown-display';
 import MarkdownDisplay from '@components/core/day3/MarkdownDisplay';
 import { TextInput } from 'react-native-gesture-handler';
 
